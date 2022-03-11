@@ -1,0 +1,3468 @@
+fileFormatVersion: 2
+guid: a71833df3e8cb2e479de2b64ee1f98b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8671673128587753749
+    second: PC Computer - Nuclear Throne - Fish-ready_0
+  - first:
+      213: 4799821544054464906
+    second: PC Computer - Nuclear Throne - Fish-ready_1
+  - first:
+      213: 5102938925651658249
+    second: PC Computer - Nuclear Throne - Fish-ready_2
+  - first:
+      213: 4856101628960893696
+    second: PC Computer - Nuclear Throne - Fish-ready_3
+  - first:
+      213: -2951605052899561137
+    second: PC Computer - Nuclear Throne - Fish-ready_4
+  - first:
+      213: -1046391453839675362
+    second: PC Computer - Nuclear Throne - Fish-ready_5
+  - first:
+      213: 4042083167740740253
+    second: PC Computer - Nuclear Throne - Fish-ready_6
+  - first:
+      213: -6108778216160953250
+    second: PC Computer - Nuclear Throne - Fish-ready_7
+  - first:
+      213: 6033226413756413848
+    second: PC Computer - Nuclear Throne - Fish-ready_8
+  - first:
+      213: 7045878417565298540
+    second: PC Computer - Nuclear Throne - Fish-ready_9
+  - first:
+      213: -996008022110932499
+    second: PC Computer - Nuclear Throne - Fish-ready_10
+  - first:
+      213: 5916097740423664107
+    second: PC Computer - Nuclear Throne - Fish-ready_11
+  - first:
+      213: -3301403993529728179
+    second: PC Computer - Nuclear Throne - Fish-ready_12
+  - first:
+      213: -7897599293557454860
+    second: PC Computer - Nuclear Throne - Fish-ready_13
+  - first:
+      213: 6714600302685068246
+    second: PC Computer - Nuclear Throne - Fish-ready_14
+  - first:
+      213: -3734194484383189923
+    second: PC Computer - Nuclear Throne - Fish-ready_15
+  - first:
+      213: 6769634346919818514
+    second: PC Computer - Nuclear Throne - Fish-ready_16
+  - first:
+      213: 7875748420179259319
+    second: PC Computer - Nuclear Throne - Fish-ready_17
+  - first:
+      213: -6093980723260568554
+    second: PC Computer - Nuclear Throne - Fish-ready_18
+  - first:
+      213: 7307552147230284562
+    second: PC Computer - Nuclear Throne - Fish-ready_19
+  - first:
+      213: 5816919410031041875
+    second: PC Computer - Nuclear Throne - Fish-ready_20
+  - first:
+      213: 8898423535259339191
+    second: PC Computer - Nuclear Throne - Fish-ready_21
+  - first:
+      213: -1625056350839829885
+    second: PC Computer - Nuclear Throne - Fish-ready_22
+  - first:
+      213: 7051704272027770125
+    second: PC Computer - Nuclear Throne - Fish-ready_23
+  - first:
+      213: -113069101474227795
+    second: PC Computer - Nuclear Throne - Fish-ready_24
+  - first:
+      213: -1539685445159158104
+    second: PC Computer - Nuclear Throne - Fish-ready_25
+  - first:
+      213: -2104549989276746714
+    second: PC Computer - Nuclear Throne - Fish-ready_26
+  - first:
+      213: 5075906222364072572
+    second: PC Computer - Nuclear Throne - Fish-ready_27
+  - first:
+      213: 8911594097771290560
+    second: PC Computer - Nuclear Throne - Fish-ready_28
+  - first:
+      213: -905573493480008797
+    second: PC Computer - Nuclear Throne - Fish-ready_29
+  - first:
+      213: -7690436768715950553
+    second: PC Computer - Nuclear Throne - Fish-ready_30
+  - first:
+      213: 1807523681268746054
+    second: PC Computer - Nuclear Throne - Fish-ready_31
+  - first:
+      213: -3896275266424300212
+    second: PC Computer - Nuclear Throne - Fish-ready_32
+  - first:
+      213: 219535748940254964
+    second: PC Computer - Nuclear Throne - Fish-ready_33
+  - first:
+      213: -35837168241361456
+    second: PC Computer - Nuclear Throne - Fish-ready_34
+  - first:
+      213: 420795030889009621
+    second: PC Computer - Nuclear Throne - Fish-ready_35
+  - first:
+      213: -526855165564731788
+    second: PC Computer - Nuclear Throne - Fish-ready_36
+  - first:
+      213: 7779312181910210184
+    second: PC Computer - Nuclear Throne - Fish-ready_37
+  - first:
+      213: -1002899416171071516
+    second: PC Computer - Nuclear Throne - Fish-ready_38
+  - first:
+      213: 4668611017319976685
+    second: PC Computer - Nuclear Throne - Fish-ready_39
+  - first:
+      213: -3852261948494706665
+    second: PC Computer - Nuclear Throne - Fish-ready_40
+  - first:
+      213: 2504033927123299576
+    second: PC Computer - Nuclear Throne - Fish-ready_41
+  - first:
+      213: 1843598064328452605
+    second: PC Computer - Nuclear Throne - Fish-ready_42
+  - first:
+      213: -7604089725036554043
+    second: PC Computer - Nuclear Throne - Fish-ready_43
+  - first:
+      213: 1524904147454211964
+    second: PC Computer - Nuclear Throne - Fish-ready_44
+  - first:
+      213: 174950426294055649
+    second: PC Computer - Nuclear Throne - Fish-ready_45
+  - first:
+      213: 4445019411382869503
+    second: PC Computer - Nuclear Throne - Fish-ready_46
+  - first:
+      213: -4709822841085098347
+    second: PC Computer - Nuclear Throne - Fish-ready_47
+  - first:
+      213: -9174609211263106790
+    second: PC Computer - Nuclear Throne - Fish-ready_48
+  - first:
+      213: 7036050003374196974
+    second: PC Computer - Nuclear Throne - Fish-ready_49
+  - first:
+      213: 8845986522339013132
+    second: PC Computer - Nuclear Throne - Fish-ready_50
+  - first:
+      213: 3557997964160397101
+    second: PC Computer - Nuclear Throne - Fish-ready_51
+  - first:
+      213: 3156282064740216721
+    second: PC Computer - Nuclear Throne - Fish-ready_52
+  - first:
+      213: -5004981550175044845
+    second: PC Computer - Nuclear Throne - Fish-ready_53
+  - first:
+      213: -6763954175857330606
+    second: PC Computer - Nuclear Throne - Fish-ready_54
+  - first:
+      213: 1028108307014519367
+    second: PC Computer - Nuclear Throne - Fish-ready_55
+  - first:
+      213: -2837484408286442933
+    second: PC Computer - Nuclear Throne - Fish-ready_56
+  - first:
+      213: 3023504962662427776
+    second: PC Computer - Nuclear Throne - Fish-ready_57
+  - first:
+      213: -8742045685491143467
+    second: PC Computer - Nuclear Throne - Fish-ready_58
+  - first:
+      213: 135471253547835181
+    second: PC Computer - Nuclear Throne - Fish-ready_59
+  - first:
+      213: -6216788924120986500
+    second: PC Computer - Nuclear Throne - Fish-ready_60
+  - first:
+      213: 5471976680697182943
+    second: PC Computer - Nuclear Throne - Fish-ready_61
+  - first:
+      213: -3687513464982059094
+    second: PC Computer - Nuclear Throne - Fish-ready_62
+  - first:
+      213: -3203010622281349531
+    second: PC Computer - Nuclear Throne - Fish-ready_63
+  - first:
+      213: -8849752872589457131
+    second: PC Computer - Nuclear Throne - Fish-ready_64
+  - first:
+      213: 1527735988799522370
+    second: PC Computer - Nuclear Throne - Fish-ready_65
+  - first:
+      213: -8740952171765324200
+    second: PC Computer - Nuclear Throne - Fish-ready_66
+  - first:
+      213: -6398100781169179184
+    second: PC Computer - Nuclear Throne - Fish-ready_67
+  - first:
+      213: -3288735485918080979
+    second: PC Computer - Nuclear Throne - Fish-ready_68
+  - first:
+      213: -8432576952270018207
+    second: PC Computer - Nuclear Throne - Fish-ready_69
+  - first:
+      213: 4271896459515882586
+    second: PC Computer - Nuclear Throne - Fish-ready_70
+  - first:
+      213: -5148419624500467697
+    second: PC Computer - Nuclear Throne - Fish-ready_71
+  - first:
+      213: 4277759128465401697
+    second: PC Computer - Nuclear Throne - Fish-ready_72
+  - first:
+      213: -2236408161662642001
+    second: PC Computer - Nuclear Throne - Fish-ready_73
+  - first:
+      213: -755699158163295256
+    second: PC Computer - Nuclear Throne - Fish-ready_74
+  - first:
+      213: 3747752761027274163
+    second: PC Computer - Nuclear Throne - Fish-ready_75
+  - first:
+      213: -7288212558009645388
+    second: PC Computer - Nuclear Throne - Fish-ready_76
+  - first:
+      213: -9125956867767287274
+    second: PC Computer - Nuclear Throne - Fish-ready_77
+  - first:
+      213: -4472073114513986826
+    second: PC Computer - Nuclear Throne - Fish-ready_78
+  - first:
+      213: -7698693484374321348
+    second: PC Computer - Nuclear Throne - Fish-ready_79
+  - first:
+      213: 4146543022096619143
+    second: PC Computer - Nuclear Throne - Fish-ready_80
+  - first:
+      213: -4571481976232434462
+    second: PC Computer - Nuclear Throne - Fish-ready_81
+  - first:
+      213: 8594149657142564761
+    second: PC Computer - Nuclear Throne - Fish-ready_82
+  - first:
+      213: -2515016789688933456
+    second: PC Computer - Nuclear Throne - Fish-ready_83
+  - first:
+      213: -8451800711834882789
+    second: PC Computer - Nuclear Throne - Fish-ready_84
+  - first:
+      213: -8029467642988427826
+    second: PC Computer - Nuclear Throne - Fish-ready_85
+  - first:
+      213: 5976575486021791829
+    second: PC Computer - Nuclear Throne - Fish-ready_86
+  - first:
+      213: 8058199131411450260
+    second: PC Computer - Nuclear Throne - Fish-ready_87
+  - first:
+      213: -7024192717482748333
+    second: PC Computer - Nuclear Throne - Fish-ready_88
+  - first:
+      213: -1047496793434044270
+    second: PC Computer - Nuclear Throne - Fish-ready_89
+  - first:
+      213: 4774086180931919444
+    second: PC Computer - Nuclear Throne - Fish-ready_90
+  - first:
+      213: -2114520240761994716
+    second: PC Computer - Nuclear Throne - Fish-ready_91
+  - first:
+      213: 5724554313502954303
+    second: PC Computer - Nuclear Throne - Fish-ready_92
+  - first:
+      213: 6666073246615887618
+    second: PC Computer - Nuclear Throne - Fish-ready_93
+  - first:
+      213: 1481357696660041776
+    second: PC Computer - Nuclear Throne - Fish-ready_94
+  - first:
+      213: -6718502721906946348
+    second: PC Computer - Nuclear Throne - Fish-ready_95
+  - first:
+      213: 8324254183734384489
+    second: PC Computer - Nuclear Throne - Fish-ready_96
+  - first:
+      213: 8442252469282606778
+    second: PC Computer - Nuclear Throne - Fish-ready_97
+  - first:
+      213: 4208115078645081328
+    second: PC Computer - Nuclear Throne - Fish-ready_98
+  - first:
+      213: -664363030285096618
+    second: PC Computer - Nuclear Throne - Fish-ready_99
+  - first:
+      213: -450787064881251385
+    second: PC Computer - Nuclear Throne - Fish-ready_100
+  - first:
+      213: 7569836600371413873
+    second: PC Computer - Nuclear Throne - Fish-ready_101
+  - first:
+      213: -7556948795781548980
+    second: PC Computer - Nuclear Throne - Fish-ready_102
+  - first:
+      213: 1353644714009428705
+    second: PC Computer - Nuclear Throne - Fish-ready_103
+  - first:
+      213: -3415382099290557745
+    second: PC Computer - Nuclear Throne - Fish-ready_104
+  - first:
+      213: 7471545761774654452
+    second: PC Computer - Nuclear Throne - Fish-ready_105
+  - first:
+      213: -5800855970986923734
+    second: PC Computer - Nuclear Throne - Fish-ready_106
+  - first:
+      213: -2846082715953301029
+    second: PC Computer - Nuclear Throne - Fish-ready_107
+  - first:
+      213: -4580682791468544565
+    second: PC Computer - Nuclear Throne - Fish-ready_108
+  - first:
+      213: 6577778806147940754
+    second: PC Computer - Nuclear Throne - Fish-ready_109
+  - first:
+      213: 3378787108034941246
+    second: PC Computer - Nuclear Throne - Fish-ready_110
+  - first:
+      213: -3055334785828226102
+    second: PC Computer - Nuclear Throne - Fish-ready_111
+  - first:
+      213: -45826422404179341
+    second: PC Computer - Nuclear Throne - Fish-ready_112
+  - first:
+      213: -2228242175252357365
+    second: PC Computer - Nuclear Throne - Fish-ready_113
+  - first:
+      213: 1883078894113477920
+    second: PC Computer - Nuclear Throne - Fish-ready_114
+  - first:
+      213: -3496715120514239369
+    second: PC Computer - Nuclear Throne - Fish-ready_115
+  - first:
+      213: 482965160652007924
+    second: PC Computer - Nuclear Throne - Fish-ready_116
+  - first:
+      213: -5204253302092294735
+    second: PC Computer - Nuclear Throne - Fish-ready_117
+  - first:
+      213: -2963767887178845344
+    second: PC Computer - Nuclear Throne - Fish-ready_118
+  - first:
+      213: -8256997680398153223
+    second: PC Computer - Nuclear Throne - Fish-ready_119
+  - first:
+      213: -1722687289518285585
+    second: PC Computer - Nuclear Throne - Fish-ready_120
+  - first:
+      213: 5286066183353491066
+    second: PC Computer - Nuclear Throne - Fish-ready_121
+  - first:
+      213: 5393251967155431223
+    second: PC Computer - Nuclear Throne - Fish-ready_122
+  - first:
+      213: -4452368878972206892
+    second: PC Computer - Nuclear Throne - Fish-ready_123
+  - first:
+      213: -3105258612402027154
+    second: PC Computer - Nuclear Throne - Fish-ready_124
+  - first:
+      213: 3199691439030820941
+    second: PC Computer - Nuclear Throne - Fish-ready_125
+  - first:
+      213: 6442329416523603746
+    second: PC Computer - Nuclear Throne - Fish-ready_126
+  - first:
+      213: -8417347024892499685
+    second: PC Computer - Nuclear Throne - Fish-ready_127
+  - first:
+      213: 1935533532897394165
+    second: PC Computer - Nuclear Throne - Fish-ready_128
+  - first:
+      213: 5900258886168286919
+    second: PC Computer - Nuclear Throne - Fish-ready_129
+  - first:
+      213: -7811395613035469323
+    second: PC Computer - Nuclear Throne - Fish-ready_130
+  - first:
+      213: -4986466394413735122
+    second: PC Computer - Nuclear Throne - Fish-ready_131
+  - first:
+      213: 4200749105988272619
+    second: PC Computer - Nuclear Throne - Fish-ready_132
+  - first:
+      213: 4998009106517880173
+    second: PC Computer - Nuclear Throne - Fish-ready_133
+  - first:
+      213: -568789085553258462
+    second: PC Computer - Nuclear Throne - Fish-ready_134
+  - first:
+      213: 7575787968409942441
+    second: PC Computer - Nuclear Throne - Fish-ready_135
+  - first:
+      213: 8713832043959324726
+    second: PC Computer - Nuclear Throne - Fish-ready_136
+  - first:
+      213: -1457669747323425933
+    second: PC Computer - Nuclear Throne - Fish-ready_137
+  - first:
+      213: 2330724343277986057
+    second: PC Computer - Nuclear Throne - Fish-ready_138
+  - first:
+      213: -7866498115693451463
+    second: PC Computer - Nuclear Throne - Fish-ready_139
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be60a3aeb3708a780800000000000000
+      internalID: -8671673128587753749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8122a683446c9240800000000000000
+      internalID: 4799821544054464906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9060bf59ae741d640800000000000000
+      internalID: 5102938925651658249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00be86be3b6546340800000000000000
+      internalID: 4856101628960893696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f417ca8b7dac907d0800000000000000
+      internalID: -2951605052899561137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10b1e944887a71f0800000000000000
+      internalID: -1046391453839675362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c5c5a93d581830800000000000000
+      internalID: 4042083167740740253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf41ef392493ba0800000000000000
+      internalID: -6108778216160953250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897747935735ab350800000000000000
+      internalID: 6033226413756413848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f2291171df7c160800000000000000
+      internalID: 7045878417565298540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de173a02bf77d22f0800000000000000
+      internalID: -996008022110932499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be19172dc833a1250800000000000000
+      internalID: 5916097740423664107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43ca993f8e0f22d0800000000000000
+      internalID: -3301403993529728179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7c1292947166290800000000000000
+      internalID: -7897599293557454860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db164a566d0f2d50800000000000000
+      internalID: 6714600302685068246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 649
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54fd1ca6e97d2cc0800000000000000
+      internalID: -3734194484383189923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215707b429292fd50800000000000000
+      internalID: 6769634346919818514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfe02de5774c4d60800000000000000
+      internalID: 7875748420179259319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cc9f9c1d4dd6ba0800000000000000
+      internalID: -6093980723260568554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bdd49f5f3a96560800000000000000
+      internalID: 7307552147230284562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d99f15269d9b050800000000000000
+      internalID: 5816919410031041875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9cb183f0d8d7b70800000000000000
+      internalID: 8898423535259339191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a033cdbd3a279e0800000000000000
+      internalID: -1625056350839829885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dd1538cafacd160800000000000000
+      internalID: 7051704272027770125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da95e83504c4e6ef0800000000000000
+      internalID: -113069101474227795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aef277ce30f1aae0800000000000000
+      internalID: -1539685445159158104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c7b156fe22bc2e0800000000000000
+      internalID: -2104549989276746714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a9431e0dd317640800000000000000
+      internalID: 5075906222364072572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf1024cd975cab70800000000000000
+      internalID: 8911594097771290560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_29
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a35d13a4b1ce63f0800000000000000
+      internalID: -905573493480008797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72635192184164590800000000000000
+      internalID: -7690436768715950553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_31
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 621
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474121263d951910800000000000000
+      internalID: 1807523681268746054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d93add946ade9c0800000000000000
+      internalID: -3896275266424300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe451bb992fb0300800000000000000
+      internalID: 219535748940254964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddb73d094ea08ff0800000000000000
+      internalID: -35837168241361456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19363e9d6f6d500800000000000000
+      internalID: 420795030889009621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e3f60b40c30b8f0800000000000000
+      internalID: -526855165564731788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88680af763ba5fb60800000000000000
+      internalID: 7779312181910210184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e73da96b4cf412f0800000000000000
+      internalID: -1002899416171071516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee05d12cfc3ac040800000000000000
+      internalID: 4668611017319976685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71808320b240a8ac0800000000000000
+      internalID: -3852261948494706665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce5bbf69d10c220800000000000000
+      internalID: 2504033927123299576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df925e4fba6c59910800000000000000
+      internalID: 1843598064328452605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_43
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89ffaeea8d87690800000000000000
+      internalID: -7604089725036554043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_44
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7737892e3c892510800000000000000
+      internalID: 1524904147454211964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_45
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e27f8c5c7c8d6200800000000000000
+      internalID: 174950426294055649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd113b9a91efad30800000000000000
+      internalID: 4445019411382869503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 593
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5960a1a641953aeb0800000000000000
+      internalID: -4709822841085098347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c2a1188d3da080800000000000000
+      internalID: -9174609211263106790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84101133215a160800000000000000
+      internalID: 7036050003374196974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02f8efbfd143ca70800000000000000
+      internalID: 8845986522339013132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_51
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fe75d1c4c806130800000000000000
+      internalID: 3557997964160397101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fe6cfa0dd5dcb20800000000000000
+      internalID: 3156282064740216721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_53
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bbe623ccbba8ab0800000000000000
+      internalID: -5004981550175044845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256f007938b9122a0800000000000000
+      internalID: -6763954175857330606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a8a3ede03944e00800000000000000
+      internalID: 1028108307014519367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a806cd6fa3f98d0800000000000000
+      internalID: -2837484408286442933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cef1c8eb5a5f920800000000000000
+      internalID: 3023504962662427776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc601234c30ea680800000000000000
+      internalID: -8742045685491143467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_59
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fdef8236a41e100800000000000000
+      internalID: 135471253547835181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c8f26596789b9a0800000000000000
+      internalID: -6216788924120986500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_61
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda3d20accd50fb40800000000000000
+      internalID: 5471976680697182943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa746477a0253dcc0800000000000000
+      internalID: -3687513464982059094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_63
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 550
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5660e1f2fce9c83d0800000000000000
+      internalID: -3203010622281349531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519005f76ac5f2580800000000000000
+      internalID: -8849752872589457131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c9fa99cb933510800000000000000
+      internalID: 1527735988799522370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856af33bf46e1b680800000000000000
+      internalID: -8740952171765324200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d50345fc316537a0800000000000000
+      internalID: -6398100781169179184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2091a100801c52d0800000000000000
+      internalID: -3288735485918080979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_69
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169acca80f779fa80800000000000000
+      internalID: -8432576952270018207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c61ba4233d84b30800000000000000
+      internalID: 4271896459515882586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08eff601a32d88b0800000000000000
+      internalID: -5148419624500467697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_72
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676dd64347ad5b30800000000000000
+      internalID: 4277759128465401697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_73
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8505f30aea6f0e0800000000000000
+      internalID: -2236408161662642001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37d989e973385f0800000000000000
+      internalID: -755699158163295256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_75
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5250b9741b20430800000000000000
+      internalID: 3747752761027274163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64b480b411bda90800000000000000
+      internalID: -7288212558009645388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_77
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612c13584961a5180800000000000000
+      internalID: -9125956867767287274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faa1d7423100f1c0800000000000000
+      internalID: -4472073114513986826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_79
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 507
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37114db01fb82590800000000000000
+      internalID: -7698693484374321348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 479
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78691f5c8ea7b8930800000000000000
+      internalID: 4146543022096619143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_81
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 479
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a0950d55de80c0800000000000000
+      internalID: -4571481976232434462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 479
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9971784549d844770800000000000000
+      internalID: 8594149657142564761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_83
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 479
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a27e0e8dd81dd0800000000000000
+      internalID: -2515016789688933456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 479
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d20ba380c25ba80800000000000000
+      internalID: -8451800711834882789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_85
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 479
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec58e2c78b9919090800000000000000
+      internalID: -8029467642988427826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 479
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550f2a14dbf01f250800000000000000
+      internalID: 5976575486021791829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_87
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 479
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49904257a6974df60800000000000000
+      internalID: 8058199131411450260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3561e8070fd058e90800000000000000
+      internalID: -7024192717482748333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298c00c573b8671f0800000000000000
+      internalID: -1047496793434044270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e5c8d5616f04240800000000000000
+      internalID: 4774086180931919444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42202035b07b7a2e0800000000000000
+      internalID: -2114520240761994716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3316c171d3b17f40800000000000000
+      internalID: 5724554313502954303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_93
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f5647ac46a28c50800000000000000
+      internalID: 6666073246615887618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_94
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03076bef9f6de8410800000000000000
+      internalID: 1481357696660041776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_95
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4decd3ede5513c2a0800000000000000
+      internalID: -6718502721906946348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_96
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9671c898311b58370800000000000000
+      internalID: 8324254183734384489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_97
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe01cf44e7e82570800000000000000
+      internalID: 8442252469282606778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4ea945e5a366a30800000000000000
+      internalID: 4208115078645081328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_99
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65964f90855b7c6f0800000000000000
+      internalID: -664363030285096618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_100
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb79688d8b7eb9f0800000000000000
+      internalID: -450787064881251385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_101
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17383e408467d0960800000000000000
+      internalID: 7569836600371413873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_102
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44ff91db13502790800000000000000
+      internalID: -7556948795781548980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_103
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 436
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20e9a02bc19c210800000000000000
+      internalID: 1353644714009428705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 394
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2fe8f73102a90d0800000000000000
+      internalID: -3415382099290557745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_105
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 394
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f357adc84340b760800000000000000
+      internalID: 7471545761774654452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 394
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29ee188a383f7fa0800000000000000
+      internalID: -5800855970986923734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_107
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 394
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9793a59dea088d0800000000000000
+      internalID: -2846082715953301029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 351
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc5c945452e60c0800000000000000
+      internalID: -4580682791468544565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_109
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 353
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918a8f39f6f84b50800000000000000
+      internalID: 6577778806147940754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_110
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31971229fcd3ee20800000000000000
+      internalID: 3378787108034941246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_111
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 351
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb70dc33354995d0800000000000000
+      internalID: -3055334785828226102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_112
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 353
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a95439c113d5ff0800000000000000
+      internalID: -45826422404179341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 351
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f1a8e1c81b311e0800000000000000
+      internalID: -2228242175252357365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 308
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0255ba7f64a022a10800000000000000
+      internalID: 1883078894113477920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_115
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 308
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774f201df1c297fc0800000000000000
+      internalID: -3496715120514239369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 265
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f96d873146d3b600800000000000000
+      internalID: 482965160652007924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_117
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 265
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b592afe137c6c7b0800000000000000
+      internalID: -5204253302092294735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_118
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 265
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063beff2fc49ed6d0800000000000000
+      internalID: -2963767887178845344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 222
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c4ac6b50496d80800000000000000
+      internalID: -8256997680398153223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_120
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 221
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec9e219909c718e0800000000000000
+      internalID: -1722687289518285585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_121
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 221
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5dfddf21eb5940800000000000000
+      internalID: 5286066183353491066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_122
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 179
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e976e61ea8da40800000000000000
+      internalID: 5393251967155431223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_123
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 179
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d08bdf18120632c0800000000000000
+      internalID: -4452368878972206892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e650e009eb7e7e4d0800000000000000
+      internalID: -3105258612402027154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_125
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 179
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d406a4e3966976c20800000000000000
+      internalID: 3199691439030820941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f50fda870c76950800000000000000
+      internalID: 6442329416523603746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_127
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1967165a739f2b80800000000000000
+      internalID: -8417347024892499685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_128
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdb4374e756cda10800000000000000
+      internalID: 1935533532897394165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_129
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c617e0323ee1e150800000000000000
+      internalID: 5900258886168286919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_130
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5e9f49319589390800000000000000
+      internalID: -7811395613035469323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_131
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23eb84db338ccab0800000000000000
+      internalID: -4986466394413735122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 93
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be188fc2e0f0c4a30800000000000000
+      internalID: 4200749105988272619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_133
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 93
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d6a224dce7c5540800000000000000
+      internalID: 4998009106517880173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_134
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 47
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2209a7b17514b18f0800000000000000
+      internalID: -568789085553258462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_135
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b0ced40b922960800000000000000
+      internalID: 7575787968409942441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_136
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6309c9c7310cde870800000000000000
+      internalID: 8713832043959324726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_137
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b24fe761155cbe0800000000000000
+      internalID: -1457669747323425933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_138
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901a0760175685020800000000000000
+      internalID: 2330724343277986057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Fish-ready_139
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 6
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937efcb64a594d290800000000000000
+      internalID: -7866498115693451463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

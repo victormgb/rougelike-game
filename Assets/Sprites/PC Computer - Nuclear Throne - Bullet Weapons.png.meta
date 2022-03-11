@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 47b10e336a70b034da34a25d24a2bcaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4339371590328948898
+    second: PC Computer - Nuclear Throne - Bullet Weapons_0
+  - first:
+      213: -5047458736925579825
+    second: PC Computer - Nuclear Throne - Bullet Weapons_1
+  - first:
+      213: -3389845397455544152
+    second: PC Computer - Nuclear Throne - Bullet Weapons_2
+  - first:
+      213: 6702433518564021839
+    second: PC Computer - Nuclear Throne - Bullet Weapons_3
+  - first:
+      213: 4461188924031804206
+    second: PC Computer - Nuclear Throne - Bullet Weapons_4
+  - first:
+      213: 2848967679694121
+    second: PC Computer - Nuclear Throne - Bullet Weapons_5
+  - first:
+      213: -1618682371543527601
+    second: PC Computer - Nuclear Throne - Bullet Weapons_6
+  - first:
+      213: 1828737488219033037
+    second: PC Computer - Nuclear Throne - Bullet Weapons_7
+  - first:
+      213: -1357064456006064999
+    second: PC Computer - Nuclear Throne - Bullet Weapons_8
+  - first:
+      213: 3155030740306917152
+    second: PC Computer - Nuclear Throne - Bullet Weapons_9
+  - first:
+      213: -4618966132769587596
+    second: PC Computer - Nuclear Throne - Bullet Weapons_10
+  - first:
+      213: 2730388820777179003
+    second: PC Computer - Nuclear Throne - Bullet Weapons_11
+  - first:
+      213: -6164593171096618894
+    second: PC Computer - Nuclear Throne - Bullet Weapons_12
+  - first:
+      213: -1021877300089723689
+    second: PC Computer - Nuclear Throne - Bullet Weapons_13
+  - first:
+      213: 5035229566974079892
+    second: PC Computer - Nuclear Throne - Bullet Weapons_14
+  - first:
+      213: -4773343721854580873
+    second: PC Computer - Nuclear Throne - Bullet Weapons_15
+  - first:
+      213: -2277431405104601208
+    second: PC Computer - Nuclear Throne - Bullet Weapons_16
+  - first:
+      213: 6366229869169899734
+    second: PC Computer - Nuclear Throne - Bullet Weapons_17
+  - first:
+      213: 8622384660736238142
+    second: PC Computer - Nuclear Throne - Bullet Weapons_18
+  - first:
+      213: -7289757156037509674
+    second: PC Computer - Nuclear Throne - Bullet Weapons_19
+  - first:
+      213: -2786925932179904694
+    second: PC Computer - Nuclear Throne - Bullet Weapons_20
+  - first:
+      213: 6765545314976315380
+    second: PC Computer - Nuclear Throne - Bullet Weapons_21
+  - first:
+      213: 8507700595268525103
+    second: PC Computer - Nuclear Throne - Bullet Weapons_22
+  - first:
+      213: -8745759071338783261
+    second: PC Computer - Nuclear Throne - Bullet Weapons_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576502978477c3c0800000000000000
+      internalID: -4339371590328948898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 70
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5eb177503d3f9b0800000000000000
+      internalID: -5047458736925579825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a06b293299d4f0d0800000000000000
+      internalID: -3389845397455544152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f461eac26c3d30d50800000000000000
+      internalID: 6702433518564021839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a2d4a0b359ed30800000000000000
+      internalID: 4461188924031804206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 71
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925568afe1f1a0000800000000000000
+      internalID: 2848967679694121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 69
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f06ff85f84989e0800000000000000
+      internalID: -1618682371543527601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 70
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd4cb47e0bf06910800000000000000
+      internalID: 1828737488219033037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 70
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994237a311dba2de0800000000000000
+      internalID: -1357064456006064999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 70
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0277e630ebbe8cb20800000000000000
+      internalID: 3155030740306917152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 69
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e75ba46c226efb0800000000000000
+      internalID: -4618966132769587596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 71
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b771f119a2a44e520800000000000000
+      internalID: 2730388820777179003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 71
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278bcfb1c27f27aa0800000000000000
+      internalID: -6164593171096618894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 69
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4ed1c720091d1f0800000000000000
+      internalID: -1021877300089723689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 69
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493b8060d9ab0e540800000000000000
+      internalID: 5035229566974079892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 70
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777440cdc2da1cdb0800000000000000
+      internalID: -4773343721854580873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887eb621430f460e0800000000000000
+      internalID: -2277431405104601208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d87a561654695850800000000000000
+      internalID: 6366229869169899734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 68
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e5f36a2dd8a770800000000000000
+      internalID: 8622384660736238142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 46
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddb5874d7495da90800000000000000
+      internalID: -7289757156037509674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 46
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47a71561a9d259d0800000000000000
+      internalID: -2786925932179904694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 46
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7b8fa5e9b04ed50800000000000000
+      internalID: 6765545314976315380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c1c5c9d9c611670800000000000000
+      internalID: 8507700595268525103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Bullet Weapons_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 47
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed93bd2672d0a680800000000000000
+      internalID: -8745759071338783261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
