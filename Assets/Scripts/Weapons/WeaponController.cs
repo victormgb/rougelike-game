@@ -7,6 +7,7 @@ public class WeaponController : MonoBehaviour
     public GameObject[] weapons = new GameObject[2];
     public GameObject player;
     public int currentWeaponIndex;
+    private GameObject currentWeapon;
 
     private void Awake()
     {
@@ -32,11 +33,16 @@ public class WeaponController : MonoBehaviour
         {
             swapWeapon();
         }
+
+        if (Input.GetButtonDown("Fire1"))
+        {
+            Fire();
+        }
     }
 
     void renderWeapon()
     {
-        GameObject currentWeapon = Instantiate(weapons[currentWeaponIndex]);
+        currentWeapon = Instantiate(weapons[currentWeaponIndex]);
         currentWeapon.transform.parent = transform;
         //Vector3 zero = Vector3.zero;
         //zero.z = -1;
@@ -69,6 +75,8 @@ public class WeaponController : MonoBehaviour
 
     void Fire()
     {
-
+        // We need to see first if the weapon is ranged or melee in Order to see what component use
+       //currentWeapon<Weapon>
+       
     }
 }

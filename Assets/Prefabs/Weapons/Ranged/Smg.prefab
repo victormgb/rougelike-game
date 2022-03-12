@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 345049146811466009}
   - component: {fileID: 345049146811466006}
   - component: {fileID: 5888637690784056311}
+  - component: {fileID: -9008261978951054400}
+  - component: {fileID: 241923807622791862}
   m_Layer: 0
   m_Name: Smg
   m_TagString: Untagged
@@ -97,3 +99,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   radious: 0.8
   gunHolder: {fileID: 3975358408223129798, guid: b653058fd28aeaf479b402d191bb80fa, type: 3}
+--- !u!114 &-9008261978951054400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 345049146811466007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b55f449bd036fa4a90da32ccef08483, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 0
+--- !u!114 &241923807622791862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 345049146811466007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5268d7d6369df3946b66e369db365d6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedBullet: 0
+  isAutomatic: 1
+  bulletType: 0
