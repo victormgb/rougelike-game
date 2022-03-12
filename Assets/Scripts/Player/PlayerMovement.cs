@@ -42,15 +42,5 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
-
-        if(movement.x > 0)
-        {
-            gameObject.transform.localScale = new Vector3(1, 1, 1);
-        }
-
-        if (movement.x < 0)
-        {
-            gameObject.transform.localScale = new Vector3(1, 1, 1);
-        }
     }
 }
