@@ -2,13 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WeaponRanged : MonoBehaviour
+public class WeaponMovement : MonoBehaviour
 {
     public float radious = 0.8f;
     //Vector3 centerPosition;
     public GameObject gunHolder;
     Vector3 posWeapon;
-
     private bool isFacingRight;
 
     //public bool leftCuadrant = false;
@@ -25,11 +24,8 @@ public class WeaponRanged : MonoBehaviour
     private void Update()
     {
 
-
         translateWeaponInPlayer();
         rotateWeaponAsMouse();
-        //updatePlayerFacing();
-
 
     }
 
@@ -40,25 +36,10 @@ public class WeaponRanged : MonoBehaviour
 
     private void updatePlayerFacing()
     {
-        //bool rightCuadrant = false;
-        //bool leftCuadrant = false;
         Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        //Vector2 PlayerPos = Camera.main.ScreenToWorldPoint(gunHolder.transform.position);
         Vector2 PlayerPos = gunHolder.transform.position;
 
 
-        //if ((mousePos.x > 0 && mousePos.y > 0) || (mousePos.x >0 && mousePos.y <0))
-        //{
-        //    rightCuadrant = true;
-        //}
-
-        //else if((mousePos.x < 0 && mousePos.y > 0) || (mousePos.x < 0 && mousePos.y < 0))
-        //{
-        //    leftCuadrant = true;
-        //}
-
-        Debug.Log("Mouse position X: " + mousePos.x + "   Character Position X: " + PlayerPos.x);
-        Debug.Log("Mouse position Y: " + mousePos.y + "   Character Position Y: " + PlayerPos.y);
 
         if ((mousePos.x > PlayerPos.x && mousePos.y > PlayerPos.y) || (mousePos.x > PlayerPos.x && mousePos.y < PlayerPos.y))
         {
