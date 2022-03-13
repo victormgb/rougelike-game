@@ -32,4 +32,12 @@ public class Weapon : MonoBehaviour
     {
             
     }
+
+    public void Fire()
+    {
+        if(type == WeaponType.Ranged)
+        {
+            weaponRanged.Fire();
+        }
+    }
 }

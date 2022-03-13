@@ -7,11 +7,15 @@ public class WeaponController : MonoBehaviour
     public GameObject[] weapons = new GameObject[2];
     public GameObject player;
     public int currentWeaponIndex;
-    private GameObject currentWeapon;
+    public GameObject currentWeapon;
+    public static WeaponController instance;
 
     private void Awake()
     {
+
+        instance = this;
         player = GameObject.Find("Player");
+
     }
 
     private void FixedUpdate()
@@ -75,8 +79,6 @@ public class WeaponController : MonoBehaviour
 
     void Fire()
     {
-        // We need to see first if the weapon is ranged or melee in Order to see what component use
-       //currentWeapon<Weapon>
-       
+        currentWeapon.GetComponent<Weapon>().Fire();
     }
 }

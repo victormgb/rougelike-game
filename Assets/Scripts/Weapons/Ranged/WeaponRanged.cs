@@ -6,7 +6,7 @@ public class WeaponRanged : MonoBehaviour
 {
     public float speedBullet;
     public bool isAutomatic;
-    public BulletType bulletType;
+    public AmmoType bulletType;
 
     // Start is called before the first frame update
     void Start()
@@ -20,13 +20,17 @@ public class WeaponRanged : MonoBehaviour
         
     }
 
-    void Fire()
+    public void Fire()
     {
-        if (bulletType == BulletType.bullet)
+        if (bulletType == AmmoType.bullet)
         {
-            //Instantiate(weapons[currentWeaponIndex]);
-            GameObject bullet = Instantiate(BulletManager.instance.bullets[0]);
-            bullet.transform.position = transform.position;   
+            if(AmmoManager.instance.ammoPlayer[0] > 0)
+            {
+                AmmoManager.instance.ammoPlayer[0]--;
+                GameObject bullet = Instantiate(AmmoManager.instance.bullets[0]);
+                bullet.transform.position = transform.position;
+            }
+
         }
     }
 }
