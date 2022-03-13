@@ -252,6 +252,26 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &834576472 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 834576472, guid: 1f4b7e1d7d773a940a24bd12163736e1, type: 3}
+  m_PrefabInstance: {fileID: 744091705858728610}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &834576473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834576472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5268d7d6369df3946b66e369db365d6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedBullet: 3
+  isAutomatic: 0
+  bulletType: 0
 --- !u!1 &1232462116 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3975358408223129798, guid: b653058fd28aeaf479b402d191bb80fa, type: 3}
@@ -314,6 +334,20 @@ Animator:
   m_CorrespondingSourceObject: {fileID: 3975358408223129799, guid: b653058fd28aeaf479b402d191bb80fa, type: 3}
   m_PrefabInstance: {fileID: 3975358407274488290}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1232462121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1232462116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94d0ab665d09f9248bb83b0baf75bd00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 0
+  maxLife: 5
 --- !u!1 &1356315600
 GameObject:
   m_ObjectHideFlags: 0
@@ -349,43 +383,18 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 744091704544703178, guid: 1f4b7e1d7d773a940a24bd12163736e1, type: 3}
   m_PrefabInstance: {fileID: 744091705858728610}
   m_PrefabAsset: {fileID: 0}
---- !u!70 &1370853481
-CapsuleCollider2D:
+--- !u!114 &1370853481
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1370853480}
   m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1.0625, y: 1}
-  m_Direction: 0
---- !u!50 &1370853482
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1370853480}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f402f558d449454987e2a2df7a9a383, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1538842309
 GameObject:
   m_ObjectHideFlags: 0
@@ -4238,6 +4247,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 834576474, guid: 1f4b7e1d7d773a940a24bd12163736e1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 834576474, guid: 1f4b7e1d7d773a940a24bd12163736e1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.04
+      objectReference: {fileID: 0}
     - target: {fileID: 744091704544703177, guid: 1f4b7e1d7d773a940a24bd12163736e1, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -4285,10 +4302,6 @@ PrefabInstance:
     - target: {fileID: 744091704544703178, guid: 1f4b7e1d7d773a940a24bd12163736e1, type: 3}
       propertyPath: m_Name
       value: Bandit
-      objectReference: {fileID: 0}
-    - target: {fileID: 744091704544703178, guid: 1f4b7e1d7d773a940a24bd12163736e1, type: 3}
-      propertyPath: m_TagString
-      value: Enemy
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1f4b7e1d7d773a940a24bd12163736e1, type: 3}

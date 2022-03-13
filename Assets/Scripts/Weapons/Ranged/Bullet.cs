@@ -8,6 +8,7 @@ public class Bullet : MonoBehaviour
     private Rigidbody2D rb;
     private float bulletSpeed;
     private GameObject currentWeapon;
+    public bool portatorIsEnemy = false;
 
     void Start()
     {
@@ -19,6 +20,8 @@ public class Bullet : MonoBehaviour
 
         //transform.rotation = currentWeapon.transform.rotation * Quaternion.Euler(0, 0, -90f);
         transform.rotation = currentWeapon.transform.rotation;
+
+        // TO DO programar disparo de enemigo
 
 
     }
@@ -37,6 +40,9 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(collision.tag);
+        if(collision.tag == "Enemy")
+        {
+            Destroy(collision.gameObject);
+        }
     }
 }
