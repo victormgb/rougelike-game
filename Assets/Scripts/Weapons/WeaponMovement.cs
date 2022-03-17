@@ -80,6 +80,7 @@ public class WeaponMovement : MonoBehaviour
         Vector2 centerPosition = Vector2.zero;
         Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         float distance = Vector3.Distance(mousePos, centerPosition);
+        mousePos = mousePos * 100;
 
         if (distance > radious)
         {

@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 834576474}
   - component: {fileID: 834576473}
+  - component: {fileID: 4944014627577983055}
+  - component: {fileID: 3313906712219326202}
   m_Layer: 0
   m_Name: bandit_weapon
   m_TagString: Untagged
@@ -25,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 834576472}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.115996, y: -7.455435, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 744091704544703177}
@@ -82,6 +84,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &4944014627577983055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834576472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5268d7d6369df3946b66e369db365d6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedBullet: 3
+  isAutomatic: 0
+  bulletType: 0
+  portatorIsEnemy: 1
+--- !u!114 &3313906712219326202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834576472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 813751b776574d240b30e0bd0b6d26e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  radious: 0.5
+  gunHolder: {fileID: 0}
 --- !u!1 &744091704544703178
 GameObject:
   m_ObjectHideFlags: 0
@@ -95,6 +127,8 @@ GameObject:
   - component: {fileID: 744091704544703179}
   - component: {fileID: 1370853482}
   - component: {fileID: 1370853481}
+  - component: {fileID: 8246173105347503163}
+  - component: {fileID: 8364315290049784463}
   m_Layer: 0
   m_Name: Bandit
   m_TagString: Enemy
@@ -224,3 +258,35 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 1.0625, y: 1}
   m_Direction: 0
+--- !u!114 &8246173105347503163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744091704544703178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f402f558d449454987e2a2df7a9a383, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3
+  startWaitTime: 3
+  minX: -5
+  maxX: 5
+  minY: -5
+  maxY: 5
+  rangeToAttack: 10
+  animator: {fileID: 744091704544703179}
+--- !u!114 &8364315290049784463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744091704544703178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc68af9e13844de46bf6b2a1f6738963, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

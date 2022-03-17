@@ -49,22 +49,22 @@ TextureImporter:
     second: bandit_idle_4
   - first:
       213: 1511843784806208459
-    second: Enemies_15
+    second: Bandit_run_1
   - first:
       213: 9008768272413781845
-    second: Enemies_16
+    second: Bandit_run_2
   - first:
       213: 615673380907259118
-    second: Enemies_17
+    second: Bandit_run_3
   - first:
       213: -1010674888820381983
-    second: Enemies_18
+    second: Bandit_run_4
   - first:
       213: -4181999719777712613
-    second: Enemies_19
+    second: Bandit_run_5
   - first:
       213: -3375038303658136201
-    second: Enemies_20
+    second: Bandit_run_6
   - first:
       213: 1432442515227095082
     second: Enemies_21
@@ -1075,7 +1075,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_15
+      name: Bandit_run_1
       rect:
         serializedVersion: 2
         x: 8
@@ -1096,7 +1096,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_16
+      name: Bandit_run_2
       rect:
         serializedVersion: 2
         x: 34
@@ -1117,7 +1117,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_17
+      name: Bandit_run_3
       rect:
         serializedVersion: 2
         x: 59
@@ -1138,7 +1138,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_18
+      name: Bandit_run_4
       rect:
         serializedVersion: 2
         x: 83
@@ -1159,7 +1159,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_19
+      name: Bandit_run_5
       rect:
         serializedVersion: 2
         x: 109
@@ -1180,7 +1180,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_20
+      name: Bandit_run_6
       rect:
         serializedVersion: 2
         x: 133

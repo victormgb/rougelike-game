@@ -7,7 +7,10 @@ public class WeaponRanged : MonoBehaviour
     public float speedBullet;
     public bool isAutomatic;
     public AmmoType bulletType;
-    private bool portatorIsEnemy = false;
+    public bool portatorIsEnemy = false;
+
+    // Enemy Controllers
+    BulletController bulletEnemyController;
 
     // Start is called before the first frame update
     void Start()
@@ -17,6 +20,7 @@ public class WeaponRanged : MonoBehaviour
         {
             portatorIsEnemy = true;
         }
+        bulletEnemyController = GetComponent<BulletController>();
     }
 
     // Update is called once per frame
@@ -52,6 +56,6 @@ public class WeaponRanged : MonoBehaviour
 
     private void FireByEnemy()
     {
-        Debug.Log("Enemy fire");
+        
     }
 }

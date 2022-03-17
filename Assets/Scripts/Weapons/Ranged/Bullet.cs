@@ -40,7 +40,7 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.tag == "Enemy")
+        if(collision.tag == "Enemy" && !portatorIsEnemy)
         {
             Destroy(collision.gameObject);
         }
