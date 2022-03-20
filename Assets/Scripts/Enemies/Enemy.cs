@@ -176,7 +176,7 @@ public class Enemy : MonoBehaviour
         current_life--;
 
         //animacion de recibimiento de damage
-        //GetComponent<AudioSource>().Play();
+        GetComponent<AudioSource>().Play();
         if (current_life <= 0)
         {
             die();

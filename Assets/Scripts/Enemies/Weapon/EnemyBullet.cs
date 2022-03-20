@@ -6,6 +6,7 @@ public class EnemyBullet : MonoBehaviour
 {
     private Rigidbody2D rb;
     public float bulletSpeed = 8f;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -21,5 +22,15 @@ public class EnemyBullet : MonoBehaviour
     private void FixedUpdate()
     {
         rb.velocity = transform.right * bulletSpeed;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Player")
+        {
+            GameObject.Find("Player").GetComponent<PlayerHealth>().CollectHealth(-3);
+            Destroy(gameObject);
+        }
+        
     }
 }

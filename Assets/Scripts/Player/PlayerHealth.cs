@@ -6,6 +6,7 @@ public class PlayerHealth : MonoBehaviour
 {
     public int health;
     public int maxLife;
+    public Animator animator;
 
     // Start is called before the first frame update
     void Start()
@@ -35,8 +36,13 @@ public class PlayerHealth : MonoBehaviour
     }
 
 
-    private void CollectHealth(int points)
+    public void CollectHealth(int points)
     {
+        if(points < 0)
+        {
+            receiveDamage();
+        }
+
         this.health += points;
 
         if (this.health <= 0)
@@ -45,8 +51,13 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
+    void receiveDamage()
+    {
+        animator.SetTrigger("damageReceived");
+    }
+
     private void Die()
     {
-        Debug.Log("Te has morido");
+        animator.SetBool("dead", true);
     }
 }
