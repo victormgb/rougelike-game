@@ -44,9 +44,10 @@ public class WeaponRanged : MonoBehaviour
     {
         if (bulletType == AmmoType.bullet)
         {
-            if (AmmoManager.instance.ammoPlayer[0] > 0)
+            if (AmmoManager.instance.ammoPlayer[WeaponController.instance.currentWeaponIndex] > 0)
             {
-                AmmoManager.instance.ammoPlayer[0]--;
+                AmmoManager.instance.ammoPlayer[WeaponController.instance.currentWeaponIndex]--;
+                WeaponController.instance.currentWeapon.GetComponent<AudioSource>().Play();
                 GameObject bullet = Instantiate(AmmoManager.instance.bullets[0]);
                 bullet.transform.position = transform.position;
             }
@@ -56,6 +57,6 @@ public class WeaponRanged : MonoBehaviour
 
     private void FireByEnemy()
     {
-        
+        bulletEnemyController.fire();
     }
 }

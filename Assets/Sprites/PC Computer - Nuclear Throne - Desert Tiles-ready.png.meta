@@ -47,6 +47,9 @@ TextureImporter:
   - first:
       213: -6164787665619577937
     second: PC Computer - Nuclear Throne - Desert Tiles-ready_14
+  - first:
+      213: -7726011764375513014
+    second: PC Computer - Nuclear Throne - Desert Tiles-ready_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -412,9 +415,9 @@ TextureImporter:
       name: PC Computer - Nuclear Throne - Desert Tiles-ready_13
       rect:
         serializedVersion: 2
-        x: 5
-        y: 32
-        width: 128
+        x: 120
+        y: 51
+        width: 21
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -434,7 +437,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 5
-        y: 13
+        y: 32
         width: 128
         height: 16
       alignment: 0
@@ -446,6 +449,27 @@ TextureImporter:
       bones: []
       spriteID: fa31903d746427aa0800000000000000
       internalID: -6164787665619577937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nuclear Throne - Desert Tiles-ready_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4898e50c31b7c490800000000000000
+      internalID: -7726011764375513014
       vertices: []
       indices: 
       edges: []

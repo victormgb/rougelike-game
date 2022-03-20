@@ -27,7 +27,8 @@ public class AmmoManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        ammoPlayer[0] = 10;
+        ammoPlayer[0] = 100;
+        ammoPlayer[1] = 500;
     }
 
     // Update is called once per frame

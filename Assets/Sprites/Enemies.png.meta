@@ -67,13 +67,13 @@ TextureImporter:
     second: Bandit_run_6
   - first:
       213: 1432442515227095082
-    second: Enemies_21
+    second: receive_damage_1
   - first:
       213: -4669921857946425314
-    second: Enemies_22
+    second: receive_damage_2
   - first:
       213: -731756946235510198
-    second: Enemies_23
+    second: receive_damage_3
   - first:
       213: 1621394836268213013
     second: Enemies_24
@@ -1201,7 +1201,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_21
+      name: receive_damage_1
       rect:
         serializedVersion: 2
         x: 6
@@ -1222,7 +1222,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_22
+      name: receive_damage_2
       rect:
         serializedVersion: 2
         x: 31
@@ -1243,7 +1243,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_23
+      name: receive_damage_3
       rect:
         serializedVersion: 2
         x: 56

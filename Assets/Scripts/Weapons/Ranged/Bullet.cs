@@ -8,7 +8,6 @@ public class Bullet : MonoBehaviour
     private Rigidbody2D rb;
     private float bulletSpeed;
     private GameObject currentWeapon;
-    public bool portatorIsEnemy = false;
 
     void Start()
     {
@@ -40,9 +39,10 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.tag == "Enemy" && !portatorIsEnemy)
+        if(collision.tag == "Enemy")
         {
-            Destroy(collision.gameObject);
+            collision.gameObject.GetComponent<Enemy>().receiveDamage();
+            Destroy(gameObject);
         }
     }
 }
